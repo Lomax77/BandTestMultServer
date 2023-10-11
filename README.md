@@ -1,2 +1,2 @@
 # BandTestMultServer
-Bandwidth Tester with Multithreading 
+Bandwidth Tester with Multithreading (Server)
